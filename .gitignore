@@ -2,4 +2,4 @@ env
 Frames
 *.avi
 *.jpg
-*.txt
+log.txt

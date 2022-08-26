@@ -1,15 +1,10 @@
-from cProfile import label
 from flask import Flask, request
 from keras.models import load_model
 import mediapipe as mp
 import numpy as np
-from PIL import Image
-from io import BytesIO
-import io
 import cv2
 import base64
 import numpy as np
-from sympy import sequence
 
 mp_holistic = mp.solutions.holistic
 
