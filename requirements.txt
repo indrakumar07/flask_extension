@@ -3,6 +3,5 @@ keras
 mediapipe
 numpy
 opencv-python
-os
 base64
 tensorflow
