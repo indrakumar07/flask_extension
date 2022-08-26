@@ -1,7 +1,5 @@
 flask==1.1.2
-keras
 mediapipe
 numpy
 opencv-python
-base64
 tensorflow
